@@ -1,0 +1,184 @@
+{
+  "headers": {
+    "dimensions": [
+      "country",
+      "countryId",
+      "date"
+    ],
+    "metrics": [
+      "activeUsers",
+      "screenPageViews",
+      "scrolledUsers",
+      "sessions",
+      "sessionsPerUser",
+      "userEngagementDuration"
+    ]
+  },
+  "rows": [
+    {
+      "dimensions": [
+        "Colombia",
+        "CO",
+        "20251004"
+      ],
+      "metrics": [
+        "5",
+        "5",
+        "0",
+        "5",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany",
+        "DE",
+        "20251004"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "0",
+        "4",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan",
+        "JP",
+        "20251003"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "0",
+        "4",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "China",
+        "CN",
+        "20251004"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "0",
+        "3",
+        "1",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan",
+        "JP",
+        "20251004"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "0",
+        "3",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "China",
+        "CN",
+        "20251003"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "0",
+        "2",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore",
+        "SG",
+        "20251004"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "0",
+        "2",
+        "1",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "France",
+        "FR",
+        "20251004"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany",
+        "DE",
+        "20251003"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore",
+        "SG",
+        "20251003"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "0",
+        "1",
+        "1",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom",
+        "GB",
+        "20251004"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0"
+      ]
+    }
+  ]
+}
