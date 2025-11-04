@@ -1,0 +1,64 @@
+{
+  "headers": {
+    "dimensions": [
+      "country",
+      "countryId",
+      "date"
+    ],
+    "metrics": [
+      "activeUsers",
+      "screenPageViews",
+      "scrolledUsers",
+      "sessions",
+      "sessionsPerUser",
+      "userEngagementDuration"
+    ]
+  },
+  "rows": [
+    {
+      "dimensions": [
+        "Japan",
+        "JP",
+        "20250925"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "0",
+        "3",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan",
+        "JP",
+        "20250926"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "0",
+        "3",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States",
+        "US",
+        "20250926"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0"
+      ]
+    }
+  ]
+}

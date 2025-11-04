@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "dimensions": [
+      "country",
+      "countryId",
+      "date"
+    ],
+    "metrics": [
+      "activeUsers",
+      "screenPageViews",
+      "scrolledUsers",
+      "sessions",
+      "sessionsPerUser",
+      "userEngagementDuration"
+    ]
+  },
+  "rows": [
+    {
+      "dimensions": [
+        "China",
+        "CN",
+        "20250927"
+      ],
+      "metrics": [
+        "12",
+        "11",
+        "0",
+        "12",
+        "1",
+        "44"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore",
+        "SG",
+        "20250927"
+      ],
+      "metrics": [
+        "6",
+        "0",
+        "0",
+        "6",
+        "1",
+        "51"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan",
+        "JP",
+        "20250926"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "0",
+        "3",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan",
+        "JP",
+        "20250927"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "0",
+        "3",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States",
+        "US",
+        "20250926"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "headers": {
+    "dimensions": [
+      "country",
+      "countryId",
+      "date"
+    ],
+    "metrics": [
+      "activeUsers",
+      "screenPageViews",
+      "scrolledUsers",
+      "sessions",
+      "sessionsPerUser",
+      "userEngagementDuration"
+    ]
+  },
+  "rows": [
+    {
+      "dimensions": [
+        "China",
+        "CN",
+        "20251006"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "0",
+        "9",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany",
+        "DE",
+        "20251005"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "0",
+        "6",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan",
+        "JP",
+        "20251005"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "0",
+        "3",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom",
+        "GB",
+        "20251005"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "0",
+        "2",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Colombia",
+        "CO",
+        "20251005"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "France",
+        "FR",
+        "20251005"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore",
+        "SG",
+        "20251005"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam",
+        "VN",
+        "20251006"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "0",
+        "1",
+        "1",
+        "4"
+      ]
+    }
+  ]
+}
